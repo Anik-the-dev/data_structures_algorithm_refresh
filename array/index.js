@@ -1,1 +1,1 @@
-console.log("Array");
+console.log("Array refresher");
